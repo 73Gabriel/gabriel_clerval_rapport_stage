@@ -36,6 +36,8 @@ J’en ai parlé avec les entreprises lorsque j’ai confirmé les stages, il do
 
 Il sera important pour vous dès la première semaine de rappeler cet aspect avec votre employeur afin qu’il vous laisse cette ouverture pour faire une proposition dès la semaine 2 ou 3 max (l’évaluation de cet aspect se fait à la semaine 4 alors ça doit être fait avant). Votre prof superviseur vous le rappellera aussi.  
 
+j'ai proposé des idées de vidéos tiktok qui sont complétement à l'opposé de l'idée de l'animation pour popularisé et atiré les jeunes à la compagnie d'une autre manière
+
 ## Questions complémentaires
 ### Résumé de la semaine
 #### Liste des tâches accomplies cette semaine
@@ -52,12 +54,12 @@ rien pour l'instantt
 Description:  oui j'ai fini mon script et j'ai vérifié avec la maitre de stage que tout convenait 
 
 #### Votre stage se déroule-t-il conformément au mandat initial? 
-- [x ] Oui
+- [x] Oui
 - [ ] Non    
 Si non, expliquez les différences:
 
 ####  Les objectifs à atteindre sont :    
-- [ x] Très clairement définis 
+- [x] Très clairement définis 
 - [ ] Assez bien définis
 - [ ] Quelque peu définis
 - [ ] Plutôt vagues
@@ -72,20 +74,20 @@ Commentaires:
 
 ####  Je dispose d'un espace de travail adéquat:  
 - [ ] Très d'accord
-- [x ] Assez d'accord
+- [x] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord     
 Commentaires:
 
  ####  Je dispose d'outils de travail adéquat:  
-- [x ] Très d'accord
+- [x] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord     
 Commentaires:
 
  ####  Je me sens bien intégré.e au personnel du service ou département où j’effectue mon stage.
-- [ x] Très d'accord
+- [x] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord     
@@ -93,12 +95,12 @@ Commentaires:
 
 ### Mandat à réaliser
 #### Je comprends l'entreprise dans laquelle j'effectue mon stage, les produits et services qu'elle offre ainsi que mon rôle dans cette dernière. 
-- [ x] Oui
+- [x] Oui
 - [ ] Non    
 Commentaires:
 
 #### Le mandat à réaliser (projet ou tâches) est: 
-- [x ] Très clairement défini 
+- [x] Très clairement défini 
 - [ ] Assez bien défini
 - [ ] Quelque peu défini
 - [ ] Plutôt vague     
@@ -106,7 +108,7 @@ Commentaires:tout à été expliqué exactement, le mandat
 
 ### Gestion du temps
 #### J'évalue, planifie et organise mon travail.   
-- [ x] Très d'accord
+- [x] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord     
